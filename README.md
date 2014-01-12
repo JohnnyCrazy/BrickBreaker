@@ -14,5 +14,6 @@ How to run it in Eclipse
 1. Import the project into Eclipse
 2. Add all the .jar files from the /libs/ folder to the Class-path
 3. Set the "Native Library Location" of lwjgl.jar to /natives/
-![screen](http://i.imgur.com/xBKMq2R.png)
 4. Save and Run
+
+![screen](http://i.imgur.com/xBKMq2R.png)
